@@ -1,13 +1,10 @@
 <!-- Dark header typing banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00E7F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+ABDO;Full-stack+Developer;Crafting+modern+web+experiences;Frontend+%2B+Backend+%3D+Love" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00E7F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+ABDO;Full-stack+Developer;Crafting+modern+web+experiences" alt="Typing SVG" />
 </p>
 
 <!-- Short description -->
-<p align="center">
-  I'm a type of person who  build clean UIs, smooth user experiences, and solid backend logic.  
-  and love mixing modern frontend tools with strong server-side structure to ship fast and reliable web apps.
-</p>
+<p align="center">I’ve created a bunch of projects already, I’m still building more, and I can build something great for you as well.  </p>
 
 ---
 
