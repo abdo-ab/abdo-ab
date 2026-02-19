@@ -10,7 +10,7 @@
 
 ## ⚡ Frontend  
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Vue.js](https://img.shields.io/badge/Vue.js-1a1a1a?style=for-the-badge&logo=vuedotjs&logoColor=42B883)
+![react.js](https://img.shields.io/badge/React.js-1a1a1a?style=for-the-badge&logo=vuedotjs&logoColor=42B883)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 
 ## 🛠 Backend  
