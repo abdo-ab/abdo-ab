@@ -1,5 +1,6 @@
 # 💫 About Me:
-My name is Abdo senior Laravel backend developer 
+I am Abdo Ab, a Full-Stack Laravel Developer with over 2 years of experience building scalable web applications. I specialize in complex backend architecture, RESTful API development, and database optimization using the Laravel ecosystem.
+I also bring a strong frontend skillset using React.js and Inertia.js to create seamless, high-performance user experiences. I am dedicated to constant learning and building impactful digital products.
 
 
 ## 🌐 Socials:
