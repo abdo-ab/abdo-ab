@@ -16,6 +16,6 @@ I also bring a strong frontend skillset using React.js and Inertia.js to create 
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=abdo-ab&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abdo-ab&label=visitors&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
